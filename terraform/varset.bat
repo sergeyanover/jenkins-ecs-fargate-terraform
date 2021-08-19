@@ -1,0 +1,4 @@
+set AWS_ACCESS_KEY_ID=xxxxxxxxxxxxxxxx
+set AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxx
+set AWS_DEFAULT_REGION=eu-central-1
+
